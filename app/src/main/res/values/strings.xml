@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Udacity Project 2 - FootyScore</string>
+    <string name="goal_scored">Goal Scored</string>
+    <string name="commit_offside">Offside</string>
+    <string name="commit_foul">Foul</string>
+    <string name="default_value">0</string>
+    <string name="reset_all">Reset</string>
+    <string name="title">The North London Derby</string>
+</resources>
